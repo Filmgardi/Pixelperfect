@@ -4,11 +4,12 @@ Pixel perfect helps you design layouts according to the resolution of your users
 Follow the steps below to implement : 
   ```
 	dependencies {
-	        implementation 'com.github.Filmgardi:Pixelperfect:Tag'
+	        implementation 'com.github.Filmgardi:Pixelperfect:{version}'
 	}
 ```
 
 The usage scale is between 1 and 100 and its Dimen ID starts with _wpp
+
 How to use it is as follows :
 ```
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
